@@ -9,6 +9,9 @@ public class Application {
      *
      * The Lab.mustThrow method should throw an exception.
      */
+
+
+     
     public static void main(String[] args) {
         Lab mapLab = new Lab();
         System.out.println("Was the map properly instantiated? this will print '{}' if yes, null if no");
